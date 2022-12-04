@@ -1,0 +1,4 @@
+config.json
+courses.txt
+__pycache__
+.venv
